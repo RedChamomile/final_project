@@ -1,0 +1,31 @@
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+
+public class Connector {
+    private static String source = "https://www.imdb.com/search/title/?groups=top_250&sort=user_rating,desc&start=";
+    private static final String url = "jdbc:mysql://localhost:3306/imdb?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC";
+    private static final String user = "";
+    private static final String password = "";
+    private static Connection connection;
+
+    static Connection openConnection(){
+        try {
+            DriverManager.registerDriver(new com.mysql.cj.jdbc.Driver());
+            connection = DriverManager.getConnection(url, user, password);
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+        return connection;
+    }
+
+    static void closeConnection(){
+        try {
+            connection.close();
+        } catch(SQLException se) {}
+    }
+
+    public static String getSource() {
+        return source;
+    }
+}
