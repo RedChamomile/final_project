@@ -18,4 +18,6 @@ The final project QA-school graduates.
 -  You can import an existing database from imdb.sql or create it at the first start;
 -  Before the first start, we recommend running Tests.java;
 
+# New  feature
 
+Added ability to save results to a file (examples in the 'resources' directory)

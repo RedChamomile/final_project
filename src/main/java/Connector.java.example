@@ -10,22 +10,22 @@ public class Connector {
     private static Connection connection;
 
     static Connection openConnection(){
-        try {
-            DriverManager.registerDriver(new com.mysql.cj.jdbc.Driver());
-            connection = DriverManager.getConnection(url, user, password);
-        } catch (SQLException e) {
-            e.printStackTrace();
+            try {
+                DriverManager.registerDriver(new com.mysql.cj.jdbc.Driver());
+                connection = DriverManager.getConnection(url, user, password);
+            } catch (SQLException e) {
+                System.out.println("Не удалось установить соединение.");
+            }
+            return connection;
         }
-        return connection;
-    }
 
-    static void closeConnection(){
-        try {
-            connection.close();
-        } catch(SQLException se) {}
-    }
+        static void closeConnection(){
+            try {
+                connection.close();
+            } catch(SQLException se) {}
+        }
 
-    public static String getSource() {
-        return source;
-    }
+        public static String getSource() {
+            return source;
+        }
 }

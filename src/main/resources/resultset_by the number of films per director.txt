@@ -1,0 +1,157 @@
++-------------------------------------------------------------------------------------+
+| director                                                          | number of films |
++-------------------------------------------------------------------------------------+
+| Christopher Nolan                                                 |               7 |
+| Martin Scorsese                                                   |               7 |
+| Stanley Kubrick                                                   |               7 |
+| Steven Spielberg                                                  |               6 |
+| Akira Kurosawa                                                    |               6 |
+| Alfred Hitchcock                                                  |               6 |
+| Billy Wilder                                                      |               6 |
+| Quentin Tarantino                                                 |               5 |
+| Hayao Miyazaki                                                    |               5 |
+| Charles Chaplin                                                   |               5 |
+| Sergio Leone                                                      |               4 |
+| Ingmar Bergman                                                    |               4 |
+| Francis Ford Coppola                                              |               3 |
+| Peter Jackson                                                     |               3 |
+| David Fincher                                                     |               3 |
+| Frank Capra                                                       |               3 |
+| Ridley Scott                                                      |               3 |
+| James Cameron                                                     |               3 |
+| Pete Docter                                                       |               3 |
+| Clint Eastwood                                                    |               3 |
+| Frank Darabont                                                    |               2 |
+| Sidney Lumet                                                      |               2 |
+| Robert Zemeckis                                                   |               2 |
+| Milos Forman                                                      |               2 |
+| Bong Joon Ho                                                      |               2 |
+| Anthony Russo                                                     |               2 |
+| Roman Polanski                                                    |               2 |
+| Lee Unkrich                                                       |               2 |
+| Rajkumar Hirani                                                   |               2 |
+| Andrew Stanton                                                    |               2 |
+| Chan-wook Park                                                    |               2 |
+| Sam Mendes                                                        |               2 |
+| Denis Villeneuve                                                  |               2 |
+| Guy Ritchie                                                       |               2 |
+| Mel Gibson                                                        |               2 |
+| George Roy Hill                                                   |               2 |
+| David Lean                                                        |               2 |
+| Fritz Lang                                                        |               2 |
+| Ron Howard                                                        |               2 |
+| Andrei Tarkovsky                                                  |               2 |
+| James Mangold                                                     |               2 |
+| Peter Weir                                                        |               2 |
+| Joel Coen                                                         |               2 |
+| Richard Linklater                                                 |               2 |
+| Rob Reiner                                                        |               2 |
+| Lana Wachowski                                                    |               1 |
+| Irvin Kershner                                                    |               1 |
+| Hrishikesh Mukherjee                                              |               1 |
+| Masaki Kobayashi                                                  |               1 |
+| Fernando Meirelles                                                |               1 |
+| Roberto Benigni                                                   |               1 |
+| Jonathan Demme                                                    |               1 |
+| George Lucas                                                      |               1 |
+| Todd Phillips                                                     |               1 |
+| Damien Chazelle                                                   |               1 |
+| Olivier Nakache                                                   |               1 |
+| Tony Kaye                                                         |               1 |
+| Bryan Singer                                                      |               1 |
+| Luc Besson                                                        |               1 |
+| Roger Allers                                                      |               1 |
+| Giuseppe Tornatore                                                |               1 |
+| Isao Takahata                                                     |               1 |
+| Michael Curtiz                                                    |               1 |
+| Nadine Labaki                                                     |               1 |
+| Makoto Shinkai                                                    |               1 |
+| Nitesh Tiwari                                                     |               1 |
+| Bob Persichetti                                                   |               1 |
+| Aamir Khan                                                        |               1 |
+| Florian Henckel von Donnersmarck                                  |               1 |
+| Sriram Raghavan                                                   |               1 |
+| Thomas Vinterberg                                                 |               1 |
+| Asghar Farhadi                                                    |               1 |
+| Çagan Irmak                                                       |               1 |
+| Michel Gondry                                                     |               1 |
+| Jean-Pierre Jeunet                                                |               1 |
+| Darren Aronofsky                                                  |               1 |
+| Gus Van Sant                                                      |               1 |
+| Majid Majidi                                                      |               1 |
+| Yavuz Turgul                                                      |               1 |
+| John Lasseter                                                     |               1 |
+| Elem Klimov                                                       |               1 |
+| Brian De Palma                                                    |               1 |
+| Richard Marquand                                                  |               1 |
+| Wolfgang Petersen                                                 |               1 |
+| Stanley Donen                                                     |               1 |
+| Vittorio De Sica                                                  |               1 |
+| Orson Welles                                                      |               1 |
+| Céline Sciamma                                                    |               1 |
+| Peter Farrelly                                                    |               1 |
+| Martin McDonagh                                                   |               1 |
+| Sergio Pablos                                                     |               1 |
+| Nishikant Kamat                                                   |               1 |
+| Nuri Bilge Ceylan                                                 |               1 |
+| Anurag Kashyap                                                    |               1 |
+| Juan José Campanella                                              |               1 |
+| Gavin O`Connor                                                    |               1 |
+| Paul Thomas Anderson                                              |               1 |
+| Guillermo del Toro                                                |               1 |
+| James McTeigue                                                    |               1 |
+| Rakeysh Omprakash Mehra                                           |               1 |
+| Oliver Hirschbiegel                                               |               1 |
+| Curtis Hanson                                                     |               1 |
+| Michael Mann                                                      |               1 |
+| John McTiernan                                                    |               1 |
+| Terry Gilliam                                                     |               1 |
+| John Sturges                                                      |               1 |
+| Robert Mulligan                                                   |               1 |
+| Stanley Kramer                                                    |               1 |
+| Yasujirô Ozu                                                      |               1 |
+| Joseph L. Mankiewicz                                              |               1 |
+| John Huston                                                       |               1 |
+| Ernst Lubitsch                                                    |               1 |
+| Buster Keaton                                                     |               1 |
+| Oriol Paulo                                                       |               1 |
+| Lenny Abrahamson                                                  |               1 |
+| Damián Szifron                                                    |               1 |
+| Wes Anderson                                                      |               1 |
+| Steve McQueen                                                     |               1 |
+| Tom McCarthy                                                      |               1 |
+| Tate Taylor                                                       |               1 |
+| George Miller                                                     |               1 |
+| David Yates                                                       |               1 |
+| Lasse Hallström                                                   |               1 |
+| Adam Elliot                                                       |               1 |
+| Dean DeBlois                                                      |               1 |
+| Sean Penn                                                         |               1 |
+| Ethan Coen                                                        |               1 |
+| Terry George                                                      |               1 |
+| Alejandro G. Iñárritu                                             |               1 |
+| Ashutosh Gowariker                                                |               1 |
+| M. Night Shyamalan                                                |               1 |
+| Kar-Wai Wong                                                      |               1 |
+| Danny Boyle                                                       |               1 |
+| Mathieu Kassovitz                                                 |               1 |
+| Jim Sheridan                                                      |               1 |
+| Oliver Stone                                                      |               1 |
+| Wim Wenders                                                       |               1 |
+| John Carpenter                                                    |               1 |
+| David Lynch                                                       |               1 |
+| Terry Jones                                                       |               1 |
+| Michael Cimino                                                    |               1 |
+| John G. Avildsen                                                  |               1 |
+| Stuart Rosenberg                                                  |               1 |
+| François Truffaut                                                 |               1 |
+| William Wyler                                                     |               1 |
+| Elia Kazan                                                        |               1 |
+| Henri-Georges Clouzot                                             |               1 |
+| Carol Reed                                                        |               1 |
+| Victor Fleming                                                    |               1 |
+| Carl Theodor Dreyer                                               |               1 |
+| Clyde Bruckman                                                    |               1 |
+| Ron Clements                                                      |               1 |
+| Katsuhiro Ôtomo                                                   |               1 |
++-------------------------------------------------------------------------------------+

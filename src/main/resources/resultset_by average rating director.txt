@@ -1,0 +1,157 @@
++-------------------------------------------------------------------------------------+
+| director                                                          |  average rating |
++-------------------------------------------------------------------------------------+
+| Frank Darabont                                                    |             9.0 |
+| Francis Ford Coppola                                              |             8.9 |
+| Peter Jackson                                                     |             8.8 |
+| Lana Wachowski                                                    |             8.7 |
+| Irvin Kershner                                                    |             8.7 |
+| Hrishikesh Mukherjee                                              |             8.7 |
+| Masaki Kobayashi                                                  |             8.7 |
+| Robert Zemeckis                                                   |             8.7 |
+| Fernando Meirelles                                                |             8.6 |
+| Roberto Benigni                                                   |             8.6 |
+| Jonathan Demme                                                    |             8.6 |
+| George Lucas                                                      |             8.6 |
+| Christopher Nolan                                                 |             8.6 |
+| David Fincher                                                     |             8.5 |
+| Sidney Lumet                                                      |             8.5 |
+| Sergio Leone                                                      |             8.5 |
+| Milos Forman                                                      |             8.5 |
+| Todd Phillips                                                     |             8.5 |
+| Damien Chazelle                                                   |             8.5 |
+| Olivier Nakache                                                   |             8.5 |
+| Tony Kaye                                                         |             8.5 |
+| Bryan Singer                                                      |             8.5 |
+| Luc Besson                                                        |             8.5 |
+| Roger Allers                                                      |             8.5 |
+| Giuseppe Tornatore                                                |             8.5 |
+| Isao Takahata                                                     |             8.5 |
+| Michael Curtiz                                                    |             8.5 |
+| Anthony Russo                                                     |             8.4 |
+| Quentin Tarantino                                                 |             8.4 |
+| Nadine Labaki                                                     |             8.4 |
+| Makoto Shinkai                                                    |             8.4 |
+| Nitesh Tiwari                                                     |             8.4 |
+| Bob Persichetti                                                   |             8.4 |
+| Aamir Khan                                                        |             8.4 |
+| Florian Henckel von Donnersmarck                                  |             8.4 |
+| Steven Spielberg                                                  |             8.4 |
+| Charles Chaplin                                                   |             8.4 |
+| Bong Joon Ho                                                      |             8.4 |
+| Roman Polanski                                                    |             8.3 |
+| Lee Unkrich                                                       |             8.3 |
+| Akira Kurosawa                                                    |             8.3 |
+| Ridley Scott                                                      |             8.3 |
+| Martin Scorsese                                                   |             8.3 |
+| Stanley Kubrick                                                   |             8.3 |
+| Sam Mendes                                                        |             8.3 |
+| Sriram Raghavan                                                   |             8.3 |
+| Thomas Vinterberg                                                 |             8.3 |
+| Asghar Farhadi                                                    |             8.3 |
+| Çagan Irmak                                                       |             8.3 |
+| Michel Gondry                                                     |             8.3 |
+| Jean-Pierre Jeunet                                                |             8.3 |
+| Darren Aronofsky                                                  |             8.3 |
+| Gus Van Sant                                                      |             8.3 |
+| Majid Majidi                                                      |             8.3 |
+| Yavuz Turgul                                                      |             8.3 |
+| John Lasseter                                                     |             8.3 |
+| Elem Klimov                                                       |             8.3 |
+| Brian De Palma                                                    |             8.3 |
+| Richard Marquand                                                  |             8.3 |
+| Wolfgang Petersen                                                 |             8.3 |
+| Stanley Donen                                                     |             8.3 |
+| Vittorio De Sica                                                  |             8.3 |
+| Orson Welles                                                      |             8.3 |
+| Fritz Lang                                                        |             8.3 |
+| Alfred Hitchcock                                                  |             8.3 |
+| Hayao Miyazaki                                                    |             8.3 |
+| Billy Wilder                                                      |             8.3 |
+| Frank Capra                                                       |             8.3 |
+| James Cameron                                                     |             8.3 |
+| Rajkumar Hirani                                                   |             8.2 |
+| Andrew Stanton                                                    |             8.2 |
+| Chan-wook Park                                                    |             8.2 |
+| Guy Ritchie                                                       |             8.2 |
+| Denis Villeneuve                                                  |             8.2 |
+| Mel Gibson                                                        |             8.2 |
+| David Lean                                                        |             8.2 |
+| Céline Sciamma                                                    |             8.2 |
+| Peter Farrelly                                                    |             8.2 |
+| Martin McDonagh                                                   |             8.2 |
+| Sergio Pablos                                                     |             8.2 |
+| Nishikant Kamat                                                   |             8.2 |
+| Nuri Bilge Ceylan                                                 |             8.2 |
+| Anurag Kashyap                                                    |             8.2 |
+| Juan José Campanella                                              |             8.2 |
+| Gavin O`Connor                                                    |             8.2 |
+| Paul Thomas Anderson                                              |             8.2 |
+| Guillermo del Toro                                                |             8.2 |
+| James McTeigue                                                    |             8.2 |
+| Rakeysh Omprakash Mehra                                           |             8.2 |
+| Oliver Hirschbiegel                                               |             8.2 |
+| Curtis Hanson                                                     |             8.2 |
+| Michael Mann                                                      |             8.2 |
+| John McTiernan                                                    |             8.2 |
+| Andrei Tarkovsky                                                  |             8.2 |
+| Terry Gilliam                                                     |             8.2 |
+| John Sturges                                                      |             8.2 |
+| Robert Mulligan                                                   |             8.2 |
+| Stanley Kramer                                                    |             8.2 |
+| Yasujirô Ozu                                                      |             8.2 |
+| Joseph L. Mankiewicz                                              |             8.2 |
+| John Huston                                                       |             8.2 |
+| Ernst Lubitsch                                                    |             8.2 |
+| Buster Keaton                                                     |             8.2 |
+| George Roy Hill                                                   |             8.2 |
+| Ron Howard                                                        |             8.2 |
+| Ingmar Bergman                                                    |             8.2 |
+| Clint Eastwood                                                    |             8.1 |
+| Oriol Paulo                                                       |             8.1 |
+| James Mangold                                                     |             8.1 |
+| Lenny Abrahamson                                                  |             8.1 |
+| Damián Szifron                                                    |             8.1 |
+| Wes Anderson                                                      |             8.1 |
+| Steve McQueen                                                     |             8.1 |
+| Tom McCarthy                                                      |             8.1 |
+| Tate Taylor                                                       |             8.1 |
+| George Miller                                                     |             8.1 |
+| David Yates                                                       |             8.1 |
+| Lasse Hallström                                                   |             8.1 |
+| Adam Elliot                                                       |             8.1 |
+| Dean DeBlois                                                      |             8.1 |
+| Sean Penn                                                         |             8.1 |
+| Ethan Coen                                                        |             8.1 |
+| Terry George                                                      |             8.1 |
+| Alejandro G. Iñárritu                                             |             8.1 |
+| Ashutosh Gowariker                                                |             8.1 |
+| M. Night Shyamalan                                                |             8.1 |
+| Peter Weir                                                        |             8.1 |
+| Joel Coen                                                         |             8.1 |
+| Kar-Wai Wong                                                      |             8.1 |
+| Danny Boyle                                                       |             8.1 |
+| Mathieu Kassovitz                                                 |             8.1 |
+| Jim Sheridan                                                      |             8.1 |
+| Rob Reiner                                                        |             8.1 |
+| Oliver Stone                                                      |             8.1 |
+| Wim Wenders                                                       |             8.1 |
+| John Carpenter                                                    |             8.1 |
+| David Lynch                                                       |             8.1 |
+| Terry Jones                                                       |             8.1 |
+| Michael Cimino                                                    |             8.1 |
+| John G. Avildsen                                                  |             8.1 |
+| Stuart Rosenberg                                                  |             8.1 |
+| François Truffaut                                                 |             8.1 |
+| William Wyler                                                     |             8.1 |
+| Elia Kazan                                                        |             8.1 |
+| Henri-Georges Clouzot                                             |             8.1 |
+| Carol Reed                                                        |             8.1 |
+| Victor Fleming                                                    |             8.1 |
+| Carl Theodor Dreyer                                               |             8.1 |
+| Clyde Bruckman                                                    |             8.1 |
+| Pete Docter                                                       |             8.1 |
+| Richard Linklater                                                 |             8.1 |
+| Ron Clements                                                      |             8.0 |
+| Katsuhiro Ôtomo                                                   |             8.0 |
++-------------------------------------------------------------------------------------+
